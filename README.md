@@ -8,3 +8,8 @@ In this regression task we will predict the percentage of marks that a student i
 ## Task 2
 ***KMeans Clustering*** <br>
 Prediction of optimum number of clusters and representing it visually.
+
+## Task 3
+***Decision Tree*** <br>
+Prediction using Decision Tree Algorithm.<br>
+Visualized the decision tree.
